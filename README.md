@@ -20,12 +20,10 @@ Here are my GitHub stats at a glance:
 
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=atlasoties&type=languages)
 
-## Recent Projects
+## Top Projects
 
 Explore some of my latest projects:
 
-- [Biton](https://github.com/atlasoties/biton)
-- [Dama](https://github.com/atlasoties/dama)
-- [Babylon](https://github.com/atlasoties/babylon)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=atlasoties&type=top-repos)
 
 Feel free to reach out if you have any questions or collaboration ideas! Let's build something amazing together. 🚀
