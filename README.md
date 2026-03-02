@@ -15,6 +15,11 @@ Check out my GitHub streak and see how consistent I am in contributing to open s
 Here are my GitHub stats at a glance:
 
 [![Minas's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=atlasoties)](https://github.com/atlasoties/github-readme-stats-fast)
+
+## Top Programming Languages I used
+
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=atlasoties&type=languages)
+
 ## Recent Projects
 
 Explore some of my latest projects:
