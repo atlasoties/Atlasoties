@@ -99,6 +99,47 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasoties&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
+### 📈 **Professional Metrics**
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/atlasoties?style=for-the-badge&logo=github&label=Followers&logoColor=white&color=blue" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/stars/atlasoties?style=for-the-badge&logo=github&label=Total%20Stars&logoColor=white&color=yellow" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="150">
+        <b>Years Active</b><br>
+        <img src="https://img.shields.io/badge/2%2B%20Years-30B0C0?style=flat-square" />
+      </td>
+      <td align="center" width="150">
+        <b>Contributions</b><br>
+        <img src="https://img.shields.io/badge/1000%2B-30B0C0?style=flat-square" />
+      </td>
+      <td align="center" width="150">
+        <b>Languages</b><br>
+        <img src="https://img.shields.io/badge/6%2B%20Languages-30B0C0?style=flat-square" />
+      </td>
+      <td align="center" width="150">
+        <b>Open Source</b><br>
+        <img src="https://img.shields.io/badge/Active-30B0C0?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 <br>
 
 ---
@@ -215,7 +256,7 @@
         • Optimize <b>database performance</b> for high-traffic systems<br><br>
         • Build <b>reliable APIs</b> serving millions of requests<br><br>
         • Contribute to <b>impactful open-source projects</b><br><br>
-        • Mentor engineers in system design
+        • Mentor engineers in system design & architecture
       </td>
     </tr>
   </table>
@@ -231,20 +272,23 @@
   <a href="https://github.com/atlasoties">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:minasworku@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/atlasoties">
+  <a href="https://www.linkedin.com/in/minas-w-a04aa9215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atlasoties&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=atlasoties&style=flat-square&color=30B0C0" alt="Profile views" />
 </p>
 
+### 💬 **Let's Collaborate**
+
 <p align="center">
-  <i>Let's build something amazing together! Feel free to reach out for collaborations or discussions about backend systems and distributed architecture.</i>
+  <i>I'm always interested in discussing backend systems, distributed architecture, and high-performance computing.</i><br>
+  <i>Feel free to reach out for collaborations, mentorship opportunities, or technical discussions!</i>
 </p>
 
 <br>
