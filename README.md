@@ -68,8 +68,19 @@
 ## 📌 **Featured Project**
 
 <p align="center">
-  <a href="https://github.com/atlasoties/biton">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atlasoties&repo=biton&theme=tokyonight&show_owner=true&border_radius=10" />
+  <a href="https://github.com/atlasoties/biton" style="text-decoration: none;">
+    <table align="center" style="border: 2px solid #30B0C0; border-radius: 10px; padding: 20px; background: rgba(48, 176, 192, 0.1); max-width: 500px;">
+      <tr>
+        <td align="center">
+          <h3>⚡ Biton</h3>
+          <p><b>High-performance compiler with advanced optimization techniques</b></p>
+          <p style="font-size: 12px; color: #666;">
+            A modern compiler implementation focusing on performance optimization<br>
+            and clean architecture principles.
+          </p>
+        </td>
+      </tr>
+    </table>
   </a>
 </p>
 
