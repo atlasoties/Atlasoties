@@ -24,7 +24,7 @@
 <tr>
 <td width="600">
 
-• 🏗️ **Backend Engineer** with strong system design fundamentals  
+• 🏗️ **Senior Backend Engineer** with strong system design fundamentals  
 • 🚀 Focused on **performance, scalability, and clean architecture**  
 • 🐧 Experienced in **Linux server environments** and **containerized deployments**  
 • 🌱 **Open-source contributor** and continuous learner  
