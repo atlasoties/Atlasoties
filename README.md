@@ -26,7 +26,7 @@
 
 • 🏗️ **Senior Backend Engineer** with strong system design fundamentals  
 • 🚀 Focused on **performance, scalability, and clean architecture**  
-• 🐧 Experienced in **Linux server environments** and **containerized deployments**  
+• 🐧 Experienced in **Linux server environments** and **cloud environmens**  
 • 🌱 **Open-source contributor** and continuous learner  
 • 💡 Building **high-performance systems** that solve real-world problems
 
