@@ -1,7 +1,7 @@
 # ⚡ **Minas | Senior Backend Engineer** ⚡
 
 <p align="center">
-  <b>API Architect • System Designer • Performance Optimizer • Distributed Systems Engineer</b>
+  <b>API Architect • System Designer • Distributed Systems Engineer</b>
 </p>
 
 <p align="center">
